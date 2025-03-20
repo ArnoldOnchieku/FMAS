@@ -1,0 +1,68 @@
+{
+  "languageToggle": "Badilisha kwa Kiingereza",
+  "navbar": {
+    "title": "Usimamizi wa Mafuriko",
+    "home": "Nyumbani",
+    "about": "Kuhusu Sisi",
+    "getInvolved": "Jihusishe",
+    "donate": "Changia",
+    "resources": "Rasilimali",
+    "impactStories": "Hadithi za Athari",
+    "annualReports": "Ripoti za Kila Mwaka",
+    "agencies": "Mashirika",
+    "contact": "Wasiliana Nasi",
+    "FAQ": "Maswali Yanayoulizwa Sana",
+    "alerts": "Tazama Onyo"
+  },
+  "hero": {
+    "title": "Jiandae, Uwe Salama",
+    "description": "Ufuatiliaji wa Mafuriko na Usimamizi wa Maafa kwa Ufanisi."
+  },
+  "subscribe": {
+    "title": "Jisajili kwa Arifa za Barua Pepe",
+    "smsWarning" : "Tafadhali wezesha ujumbe wa matangazo ili upokee arifa",
+    "method": "Chagua Njia ya Kupokea Arifa",
+    "selectMethod": "Chagua njia",
+    "email": "Barua Pepe",
+    "sms": "SMS",
+    "phonePlaceholder": "Weka nambari ya simu",
+    "emailPlaceholder": "Weka barua pepe",
+    "selectLocation": "Ni eneo au maeneo gani ungependa kupokea arifa?",
+    "subscribeButton": "Jisajili"
+  },
+  "whatWeDo": {
+    "title": "Tunachofanya",
+    "floodMonitoring": "Ufuatiliaji wa Mafuriko",
+    "floodAlert": "Onyo la Mafuriko",
+    "resourceAllocation": "Ugawaji wa Rasilimali",
+    "floodResponse": "Majibu ya Mafuriko",
+    "description": "Jifunze zaidi kuhusu juhudi zetu."
+  },
+  "analytics": {
+    "title": "Athari Yetu",
+    "countyBranches": "Matawi ya Kaunti",
+    "regionalOffices": "Ofisi za Kanda",
+    "membersVolunteers": "Wanachama na Wajitolea",
+    "beneficiariesSupported": "Walionufaika"
+  },
+  "reportFlood": {
+    "title": "Ripoti Matukio ya Mafuriko",
+    "description": "Tusaidie kujibu haraka kwa kuripoti matukio ya mafuriko katika eneo lako. Mawazo yako yanaweza kuokoa maisha.",
+    "button": "Ripoti Sasa"
+  },
+  "footer": {
+    "quickLinks": "Viungo vya Haraka",
+    "adminPortal": "Lango la Msimamizi",
+    "responderPortal": "Lango la Wajibu",
+    "userDashboard": "Dashibodi ya Mtumiaji",
+    "publications": "Machapisho",
+    "impactStories": "Hadithi za Athari",
+    "donate": "Changia",
+    "aboutUs": "Kuhusu Sisi",
+    "contactUs": "Wasiliana Nasi",
+    "contactTitle": "Wasiliana Nasi",
+    "phone": "Simu: +254-712-345-678",
+    "email": "Barua pepe: info@fmas.co.ke",
+    "address": "Sanduku la Posta 536 - 20115, Egerton-Njoro, Kenya"
+  }
+}
